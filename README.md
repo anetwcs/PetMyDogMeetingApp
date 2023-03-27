@@ -2,9 +2,9 @@
 
 Final Release Youtube Video: https://youtu.be/XxjCbclx_OQ
 
-Developer Guide: https://github.com/anetwcs/PetMyDogMeetingApp/blob/docs/docs/dev_guide.md
+Developer Guide: https://github.com/anetwcs/PetMyDogMeetingApp/blob/main/docs/dev_guide.md
 
-User Manual: https://github.com/anetwcs/PetMyDogMeetingApp/blob/docs/docs/user_guide.md
+User Manual: https://github.com/anetwcs/PetMyDogMeetingApp/blob/main/docs/user_guide.md
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)<br><br>
 [User Document](https://github.com/evaliu2002/PetMyDog/blob/main/USERDOC.md)
