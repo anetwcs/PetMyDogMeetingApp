@@ -1,7 +1,5 @@
 # PetMyDog
 
-Final Release Youtube Video: https://youtu.be/XxjCbclx_OQ
-
 Developer Guide: https://github.com/anetwcs/PetMyDogMeetingApp/blob/main/docs/dev_guide.md
 
 User Manual: https://github.com/anetwcs/PetMyDogMeetingApp/blob/main/docs/user_guide.md
